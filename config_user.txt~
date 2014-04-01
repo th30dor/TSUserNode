@@ -1,0 +1,7 @@
+4
+id|ip_address|type|udp_port_for_new_admin|admin_listen_port
+0|10.16.160.250|admin|7500|7001| 
+1|10.16.173.100|regular|7500|7001|
+2|10.16.73.94|regular|7500|7001|
+3|10.16.73.94|regular|7500|7001|
+
